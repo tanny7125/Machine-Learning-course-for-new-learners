@@ -1,0 +1,2 @@
+# Machine Learning course for new learners
+ ~This particular repo will consist of all the basic machine learning in order for a person to start .The repo will also consist of  codes for beginners and also exercise that will help beginners to pratice and excel well in machine learning .It will also contain all the comments that will help the individual to begin with machine learning.If in case u face any difficulty u can contact me on the mail dhruvtaneja619@gmail.com
