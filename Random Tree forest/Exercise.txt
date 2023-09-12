@@ -1,0 +1,8 @@
+CSV file is available to download at https://github.com/codebasics/py/blob/master/ML/9_decision_tree/Exercise/titanic.csv
+
+In this file using following columns build a model to predict if person would survive or not,
+Pclass
+Sex
+Age
+Fare
+Calculate score of your model

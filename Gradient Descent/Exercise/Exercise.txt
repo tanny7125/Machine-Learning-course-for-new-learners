@@ -1,0 +1,1 @@
+Find the gradient descent for the given dataset by droping unnecessary columns and plot the graph and heatmap for the followning
